@@ -1,0 +1,83 @@
+[
+    {
+      "name": "The Jackies",
+      "address": "Blk 133 Mystery Street #17-17",
+      "contact":91912020,
+      "postalCode": 555133,
+      "status": "delivered",
+      "vendor": "Vendor 1",
+      "driver": "Ben"
+    },
+    {
+      "name": "The Mouse",
+      "address": "Blk 133 Mystery Street #17-17",
+      "contact":91912020,
+      "postalCode": 555133,
+      "status": "delivered",
+      "vendor": "Vendor 1",
+      "driver": "Ben"
+    },
+    {
+      "name": "The Baker",
+      "address": "Blk 133 Mystery Street #17-17",
+      "contact":91912020,
+      "postalCode": 555133,
+      "status": "delivered",
+      "vendor": "Vendor 1",
+      "driver": "Sarah"
+    },
+    {
+      "name": "The Shopper",
+      "address": "Blk 133 Mystery Street #17-17",
+      "contact":91912020,
+      "postalCode": 555133,
+      "status": "delivered",
+      "vendor": "Vendor 2",
+      "driver": "Ali"
+    },
+    {
+      "name": "The Foodies",
+      "address": "Blk 133 Mystery Street #17-17",
+      "contact":91912020,
+      "postalCode": 555133,
+      "status": "undelivered",
+      "vendor": "Vendor 2",
+      "driver": "Gopal"
+    },
+    {
+      "name": "The Frittatas",
+      "address": "Blk 133 Mystery Street #17-17",
+      "contact":91912020,
+      "postalCode": 555133,
+      "status": "delivered",
+      "vendor": "Vendor 2",
+      "driver": "Gopal"
+    },
+    {
+      "name": "The Pizza",
+      "address": "Blk 133 Mystery Street #17-17",
+      "contact":91912020,
+      "postalCode": 555133,
+      "status": "undelivered",
+      "vendor": "Vendor 3",
+      "driver": "Ben"
+    },
+    {
+      "name": "The Daniels",
+      "address": "Blk 133 Mystery Street #17-17",
+      "contact":91912020,
+      "postalCode": 555133,
+      "status": "undelivered",
+      "vendor": "Vendor 3",
+      "driver": "Sarah"
+    },
+    {
+      "name": "The Sam",
+      "address": "Blk 133 Mystery Street #17-17",
+      "contact":91912020,
+      "postalCode": 555133,
+      "status": "undelivered",
+      "vendor": "Vendor 3",
+      "driver": "Ben"
+    }
+  ]

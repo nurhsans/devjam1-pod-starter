@@ -107,6 +107,9 @@ store.$unbind = function(property, value) {
 export default {
   onInit(db) {
     store.$bind(db.collection('organizers'), 'organizers')
+    store.$bind(db.collection('vendor'), 'vendor')
+    store.$bind(db.collection('clients'), 'clients')
+    store.$bind(db.collection('drivers'), 'drivers')
   },
   onLogin(db, uid) {
     /** Add private, user only subscriptions here */
